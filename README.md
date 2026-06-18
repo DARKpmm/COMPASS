@@ -8,7 +8,6 @@
 - [System Requirements](#system-requirements)
 - [Installation Guide](#installation-guide)
 - [Usage](#usage)
-- [Data Availability](#data-availability)
 - [License](#license)
 
 # Overview
@@ -41,9 +40,6 @@ For specific setting, please see <a href="https://github.com/DARKpmm/COMPASS/blo
 `COMPASS` is a method for single-cell multi-omics perturbation prediction, which can be used to:
 * Unseen perturbation target effect prediction. The example can be seen in the <a href="https://github.com/DARKpmm/COMPASS/blob/main/COMPASS/data/PapalexiSatija2021/sams_vae_ood.yaml">tutorial_ood</a>
 * Cross-microenvironment perturbation effect prediction. The example can be seen in the <a href="https://github.com/DARKpmm/COMPASS/blob/main/COMPASS/data/frangiehlzar/sams_vae_ood.yaml">tutorial_oos</a>
-
-# Data Availability
-The datasets we used can be download in <a href="">dataset</a>
 
 # License
 This project is covered under the **MIT License**.
